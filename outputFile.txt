@@ -1,0 +1,12 @@
+@READ_1
+AT
++READ_1
+!A
+@READ_2
+GC
++READ_2
+"`
+@READ_3
+GC
++READ_3
+"`
